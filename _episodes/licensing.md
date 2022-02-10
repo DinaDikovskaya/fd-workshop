@@ -1,27 +1,26 @@
 ---
-title: "Rights and Licensing" # title of the episode
-teaching: 10 # time required to teach (minutes)
-exercises: 10 # time required for participants to do the activities (minutes)
-duration: 0 # duration not included in teaching/exercises time (minutes)
-# summary of the episode content for displaying on the schedule page
-summary: >-
-  Licensing is a common difficulty in academia because universities
-  usually have complex policies. In this lesson we figure out what
-  we can and can't do with our own code and software.
+title: Rights and Licensing
+teaching: 10
+exercises: 10
+duration: 0
+summary: Licensing is a common difficulty in academia because universities
+  usually have complex policies. In this lesson we figure out what we can and
+  can't do with our own code and software.
 questions:
   - What is licensing?
   - Do I need to license my work?
   - Who owns the rights to my work?
 objectives:
-  - Understand what parts of your university's rights and licensing policy apply to you.
+  - Understand what parts of your university's rights and licensing policy apply
+    to you.
   - Know where to get help.
-keypoints:
+keypoints: null
 is-break: false
-ukrn_wb_rules: # list of rules for the UKRN Workshop Builder tool
+ukrn_wb_rules: null
 day: 1
 order: 30000
----
 
+---
 ## What is licensing?
 
 When software is created it is automatically copyrighted.
