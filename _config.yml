@@ -1,5 +1,5 @@
 ---
-workshop_id:
+workshop_id: DD_UD_OCS_20220210_01
 topic: open-code
 title: Open Code Workshop
 instructors: []
@@ -9,14 +9,14 @@ start_times:
   - 09|00
 setup_files: []
 language: en
-venue:
-address:
-country:
-latitude:
-longitude:
-start_date:
-collaborative_notes:
-eventbrite:
+venue: null
+address: null
+country: null
+latitude: null
+longitude: null
+start_date: null
+collaborative_notes: null
+eventbrite: null
 optional_intro_sections:
   - requirements
   - accessibility
